@@ -1,20 +1,22 @@
-### Hi there! 👋 I'm Ernandes Lima
+### 👋 Shalom! I'm Ariel Shlomoh (אריאל שלמה)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Welcome%20to%20my%20Open%20Source%20World&fontSize=40&fontAlignY=38&desc=Democratizing%20Education%20Through%20Code&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Welcome%20to%20my%20Open%20Source%20World&fontSize=40&fontAlignY=38&desc=Democratizing%20Knowledge%20Through%20Code&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://github.com/NandesLima">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+BI+Student;Open+Source+Advocate;Self-Taught+Learner;Builder+of+Free+Universities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Data+Manager+at+Grupo+Velas;Open+Source+Advocate;Lifelong+Learner;Builder+of+Free+Universities" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 🎓 Minhas Universidades Livres (Open Source)
+### 🎓 Portais de Educação Livre (Open Source)
 
-Sou um entusiasta da **educação autodidata** e acredito que o conhecimento profundo deve ser acessível a todos. Atualmente, mantenho três portais acadêmicos completos que reúnem materiais de grandes universidades do Brasil e do mundo, totalmente gratuitos e estruturados:
+Acredito firmemente que o conhecimento deve ser acessível a todos. Através do poder do Open Source e da comunidade, ajudo a organizar, curar e compartilhar trilhas completas de estudo reunindo materiais de excelência. 
+
+*Nota: Muitos destes projetos são forks de repositórios globais incríveis (como o OSSU), adaptados ou expandidos. O projeto de Estatística foi construído do zero para a comunidade.*
 
 <table>
   <tr>
@@ -39,25 +41,50 @@ Sou um entusiasta da **educação autodidata** e acredito que o conhecimento pro
   </tr>
 </table>
 
-*(Clique nos badges acima para visitar a página de cada curso)*
+*(Clique nos badges acima para visitar a página interativa de cada curso)*
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 **Estudante de Business Intelligence (BI)** na UNIFOR.
-- 💼 **Trainee em Análise de Dados e Projetos**, focado em otimização de processos, engenharia de requisitos e modelagem de negócios.
-- 🧠 Apaixonado por transformar dados em conhecimento acionável.
-- 🌱 Atualmente me aprofundando em: **Estatística Avançada, Machine Learning, Python e Arquitetura de Dados**.
+- 🎓 **Bacharel em Business Intelligence (BI)** formado pela UNIFOR.
+- 💼 Atualmente atuando como **Gestor de Dados no Grupo Velas**, liderando estratégias de dados, engenharia de requisitos e modelagem de negócios.
+- 🧠 Apaixonado por transformar dados brutos em conhecimento acionável e decisões estratégicas.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Conhecimentos
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,github,linux,bash&perline=8" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=powerbi,excel,aws,docker,md,git&perline=6" />
 </div>
+
+---
+
+### 🤖 Automação & Agentes IA (OpenClaw)
+
+Parte considerável da infraestrutura, documentação, CI/CD e refatoração em larga escala dos meus repositórios Open Source é orquestrada através do **OpenClaw Agent**. 
+
+<div align="center">
+  <a href="https://github.com/openclaw/openclaw">
+    <img src="https://img.shields.io/badge/Maintained%20by-OpenClaw%20Agent-7000ff?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Automated%20Commits-100%2B-00f2ff?style=for-the-badge&logo=githubactions&logoColor=white" />
+</div>
+
+<details>
+  <summary><b>🛠️ Veja o que o Agente automatizou nos projetos:</b></summary>
+  <ul>
+    <li><b>Migração para MkDocs:</b> Transformação de READMEs monolíticos em sites modulares com Material Design.</li>
+    <li><b>Injeção CSS/UI:</b> Estilização avançada (Glassmorphism e Neon Dark Mode) em todas as páginas e tabelas.</li>
+    <li><b>Progresso Interativo:</b> Implementação de botões <i>[Concluído]</i> com persistência em LocalStorage.</li>
+    <li><b>Copywriting:</b> Escrita de introduções motivacionais e reestruturação da ementa de dezenas de módulos.</li>
+    <li><b>Integração Contínua:</b> Configuração de workflows do GitHub Actions (CI/CD) para deploy automático via <code>gh-pages</code>.</li>
+  </ul>
+</details>
+
+<br>
 
 ---
 
@@ -71,5 +98,5 @@ Sou um entusiasta da **educação autodidata** e acredito que o conhecimento pro
 <br>
 
 <div align="center">
-  <i>"A educação é a arma mais poderosa que você pode usar para mudar o mundo." - Nelson Mandela</i>
+  <i>"Não sabendo que era impossível, foi lá e fez." - Jean Cocteau</i>
 </div>
