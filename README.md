@@ -65,7 +65,7 @@ Acredito firmemente que o conhecimento deve ser acessível a todos. Através do 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandesLima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NandesLima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&include_all_commits=true" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandesLima&theme=tokyonight&hide_border=true&background=050505" height="195" />
 </div>
 
