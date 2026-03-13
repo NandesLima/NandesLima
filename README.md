@@ -72,5 +72,5 @@ Acredito firmemente que o conhecimento deve ser acessível a todos. Através do 
 <br>
 
 <div align="center">
-  <i>"Não sabendo que era impossível, foi lá e fez." - Jean Cocteau</i>
+  <i>"Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que elas são difíceis." - Sêneca</i>
 </div>
