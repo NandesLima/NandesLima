@@ -62,36 +62,10 @@ Acredito firmemente que o conhecimento deve ser acessível a todos. Através do 
 
 ---
 
-### 🤖 Automação & Agentes IA (OpenClaw)
-
-Parte considerável da infraestrutura, documentação, CI/CD e refatoração em larga escala dos meus repositórios Open Source é orquestrada através do **OpenClaw Agent**. 
-
-<div align="center">
-  <a href="https://github.com/openclaw/openclaw">
-    <img src="https://img.shields.io/badge/Maintained%20by-OpenClaw%20Agent-7000ff?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Automated%20Commits-100%2B-00f2ff?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
-
-<details>
-  <summary><b>🛠️ Veja o que o Agente automatizou nos projetos:</b></summary>
-  <ul>
-    <li><b>Migração para MkDocs:</b> Transformação de READMEs monolíticos em sites modulares com Material Design.</li>
-    <li><b>Injeção CSS/UI:</b> Estilização avançada (Glassmorphism e Neon Dark Mode) em todas as páginas e tabelas.</li>
-    <li><b>Progresso Interativo:</b> Implementação de botões <i>[Concluído]</i> com persistência em LocalStorage.</li>
-    <li><b>Copywriting:</b> Escrita de introduções motivacionais e reestruturação da ementa de dezenas de módulos.</li>
-    <li><b>Integração Contínua:</b> Configuração de workflows do GitHub Actions (CI/CD) para deploy automático via <code>gh-pages</code>.</li>
-  </ul>
-</details>
-
-<br>
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandesLima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NandesLima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&include_all_commits=true&count_private=true" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandesLima&theme=tokyonight&hide_border=true&background=050505" height="195" />
 </div>
 
