@@ -45,6 +45,16 @@ Acredito firmemente que o conhecimento deve ser acessível a todos. Através do 
 
 ---
 
+
+---
+
+### 📂 Portfólio & Projetos em Destaque
+
+Além dos projetos educacionais, também desenvolvo análises e modelagens focadas em soluções de negócios.
+
+*   [**Análise Descritiva de Custos Hospitalares (R & SQL)**](https://github.com/NandesLima/analise-de-dados-com-r-e-sql)  
+    *Estudo de caso (Healthcare): Utilização de R (ggplot2, dplyr) e manipulação via SQL para responder a 20 perguntas estratégicas sobre custos, demografia e tempo de permanência de pacientes em Wisconsin (EUA).*
+
 ### 🚀 Sobre Mim
 - 🎓 **Bacharel em Business Intelligence (BI)** formado pela UNIFOR.
 - 💼 Atualmente atuando como **Gestor de Dados no Grupo Velas**, liderando estratégias de dados, engenharia de requisitos e modelagem de negócios.
