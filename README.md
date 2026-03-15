@@ -71,14 +71,26 @@ Além dos projetos educacionais, também desenvolvo análises e modelagens focad
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Ecosystem Insights
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandesLima&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&bg_color=050505" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandesLima&theme=tokyonight&hide_border=true&background=050505" height="195" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ernandes-lima/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:euernandeslima@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que elas são difíceis." - Sêneca</i>
+  <i>"Não é because as coisas são difíceis que não ousamos; é because não ousamos que elas são difíceis."</i> — <b>Sêneca</b>
 </div>
