@@ -92,5 +92,5 @@ Além dos projetos educacionais, também desenvolvo análises e modelagens focad
 <br>
 
 <div align="center">
-  <i>"Não é because as coisas são difíceis que não ousamos; é because não ousamos que elas são difíceis."</i> — <b>Sêneca</b>
+  <i>"Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que elas são difíceis."</i> — <b>Sêneca</b>
 </div>
