@@ -74,9 +74,9 @@ Além dos projetos educacionais, também desenvolvo análises e modelagens focad
 ### 📊 GitHub Ecosystem Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandesLima&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&bg_color=050505&width=450" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandesLima&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&bg_color=050505&width=1000" width="100%" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandesLima&theme=tokyonight&hide_border=true&background=050505&width=450" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandesLima&theme=tokyonight&hide_border=true&background=050505&width=1000" width="100%" />
 </div>
 
 ---
