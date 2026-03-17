@@ -56,8 +56,12 @@ Acredito firmemente que o conhecimento deve ser acessível a todos. Através do 
 
 Além dos projetos educacionais, também desenvolvo análises e modelagens focadas em soluções de negócios.
 
+*   [**Engenharia & Análise do Campeonato Brasileiro (Python, Pandas & EDA)**](https://github.com/NandesLima/analise-campeonato-brasileiro)  
+    *Futebol & Data Science: Refatoração completa de projeto legado para um pipeline moderno em Python. Inclui limpeza automatizada de +7.600 registros, cálculo de pontos e testes de hipóteses estatísticas (Home Advantage e Eficiência Ofensiva).*
+
 *   [**Análise Descritiva de Custos Hospitalares (R & SQL)**](https://github.com/NandesLima/analise-de-dados-com-r-e-sql)  
     *Estudo de caso (Healthcare): Utilização de R (ggplot2, dplyr) e manipulação via SQL para responder a 20 perguntas estratégicas sobre custos, demografia e tempo de permanência de pacientes em Wisconsin (EUA).*
+
 
 ---
 
