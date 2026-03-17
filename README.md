@@ -16,6 +16,8 @@
 
 Acredito firmemente que o conhecimento deve ser acessível a todos. Através do poder do Open Source e da comunidade, ajudo a organizar, curar e compartilhar trilhas completas de estudo reunindo materiais de excelência. 
 
+*⚓ Atualizado em: 17 de Março de 2026*
+
 *Nota: Muitos destes projetos são forks de repositórios globais incríveis (como o OSSU), adaptados ou expandidos. O projeto de Estatística foi construído do zero para a comunidade.*
 
 <table>
