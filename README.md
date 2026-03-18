@@ -1,49 +1,14 @@
 ### 👋 Shalom! I'm Ariel Shlomoh (אריאל שלמה)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Welcome%20to%20my%20Open%20Source%20World&fontSize=40&fontAlignY=38&desc=Democratizing%20Knowledge%20Through%20Code&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Data%20Driven%20%26%20Open%20Source%20World&fontSize=38&fontAlignY=38&desc=Turning%20Complexity%20into%20Clarity%20through%20Data%20Engineering&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://github.com/NandesLima">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Data+Manager+at+Grupo+Velas;Open+Source+Advocate;Lifelong+Learner;Builder+of+Free+Universities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;Data+Science+Enthusiast;Security+%26+Infra+Guardian;Physical+Education+OSS+Advocate" alt="Typing SVG" />
   </a>
 </div>
-
----
-
-### 🎓 Portais de Educação Livre (Open Source)
-
-Acredito firmemente que o conhecimento deve ser acessível a todos. Através do poder do Open Source e da comunidade, ajudo a organizar, curar e compartilhar trilhas completas de estudo reunindo materiais de excelência. 
-
-*⚓ Atualizado em: 17 de Março de 2026*
-
-*Nota: Muitos destes projetos são forks de repositórios globais incríveis (como o OSSU), adaptados ou expandidos. O projeto de Estatística foi construído do zero para a comunidade.*
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://nandeslima.github.io/ciencia-da-computacao/">
-        <img src="https://img.shields.io/badge/Computer_Science-100000?style=for-the-badge&logo=codeforces&logoColor=00f2ff&color=050505" width="100%" />
-        <br /><b>💻 Ciência da Computação</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://nandeslima.github.io/estatistica/">
-        <img src="https://img.shields.io/badge/Statistics-100000?style=for-the-badge&logo=scipy&logoColor=00f2ff&color=050505" width="100%" />
-        <br /><b>📊 Estatística</b>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://nandeslima.github.io/matematica/">
-        <img src="https://img.shields.io/badge/Mathematics-100000?style=for-the-badge&logo=wolframmathematica&logoColor=00f2ff&color=050505" width="100%" />
-        <br /><b>🧮 Matemática</b>
-      </a>
-    </td>
-  </tr>
-</table>
-
-*(Clique nos badges acima para visitar a página interativa de cada curso)*
 
 ---
 
@@ -51,12 +16,11 @@ Acredito firmemente que o conhecimento deve ser acessível a todos. Através do 
 - 🎓 **Bacharel em Business Intelligence (BI)** formado pela UNIFOR.
 - 💼 Atualmente atuando como **Gestor de Dados no Grupo Velas**, liderando estratégias de dados, engenharia de requisitos e modelagem de negócios.
 - 🧠 Apaixonado por transformar dados brutos em conhecimento acionável e decisões estratégicas.
+- ⚓ **Foco:** Engenharia de Dados, Analytics, Ciência de Dados, Segurança e Educação Física Open Source.
 
 ---
 
 ### 📂 Portfólio & Projetos em Destaque
-
-Além dos projetos educacionais, também desenvolvo análises e modelagens focadas em soluções de negócios.
 
 *   [**Engenharia & Análise do Campeonato Brasileiro (Python, Pandas & EDA)**](https://github.com/NandesLima/analise-campeonato-brasileiro)  
     *Futebol & Data Science: Refatoração completa de projeto legado para um pipeline moderno em Python. Inclui limpeza automatizada de +7.600 registros, cálculo de pontos e testes de hipóteses estatísticas (Home Advantage e Eficiência Ofensiva).*
@@ -64,15 +28,50 @@ Além dos projetos educacionais, também desenvolvo análises e modelagens focad
 *   [**Análise Descritiva de Custos Hospitalares (R & SQL)**](https://github.com/NandesLima/analise-de-dados-com-r-e-sql)  
     *Estudo de caso (Healthcare): Utilização de R (ggplot2, dplyr) e manipulação via SQL para responder a 20 perguntas estratégicas sobre custos, demografia e tempo de permanência de pacientes em Wisconsin (EUA).*
 
+*   [**Escritório Sekhel: Torre de Controle (Segurança & Infra)**](https://github.com/NandesLima/security-dashboard)
+    *Monitoramento em tempo real de infraestrutura VPS, auditoria de comandos IA, geolocalização de ataques e saúde do hardware.*
+
+---
+
+### 🎓 Curadoria & Educação Livre (Open Source)
+
+Acredito que o conhecimento deve ser democrático. Mantenho curadorias de excelência adaptadas para a comunidade.
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://nandeslima.github.io/ciencia-da-computacao/">
+        <img src="https://img.shields.io/badge/Computer_Science-050505?style=for-the-badge&logo=codeforces&logoColor=00f2ff" width="100%" />
+        <br /><b>💻 CS</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://nandeslima.github.io/estatistica/">
+        <img src="https://img.shields.io/badge/Statistics-050505?style=for-the-badge&logo=scipy&logoColor=00f2ff" width="100%" />
+        <br /><b>📊 Estatística</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://nandeslima.github.io/matematica/">
+        <img src="https://img.shields.io/badge/Mathematics-050505?style=for-the-badge&logo=wolframmathematica&logoColor=00f2ff" width="100%" />
+        <br /><b>🧮 Matemática</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Phys_Ed-050505?style=for-the-badge&logo=fitnesspal&logoColor=00f2ff" width="100%" />
+        <br /><b>💪 Ed. Física</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tecnologias & Conhecimentos
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,github,linux,bash&perline=8" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,aws,docker,md,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,github,linux,bash,powerbi,excel,aws,docker,md,git&perline=7" />
 </div>
 
 ---
