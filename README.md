@@ -36,22 +36,28 @@ Acredito que o conhecimento deve ser democrático. Mantenho curadorias de excel�
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://nandeslima.github.io/ciencia-da-computacao/">
         <img src="https://img.shields.io/badge/Computer_Science-050505?style=for-the-badge&logo=codeforces&logoColor=00f2ff" width="100%" />
         <br /><b>💻 CS</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://nandeslima.github.io/estatistica/">
         <img src="https://img.shields.io/badge/Statistics-050505?style=for-the-badge&logo=scipy&logoColor=00f2ff" width="100%" />
         <br /><b>📊 Estatística</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://nandeslima.github.io/matematica/">
         <img src="https://img.shields.io/badge/Mathematics-050505?style=for-the-badge&logo=wolframmathematica&logoColor=00f2ff" width="100%" />
         <br /><b>🧮 Matemática</b>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://nandeslima.github.io/data-science/">
+        <img src="https://img.shields.io/badge/Data_Science-050505?style=for-the-badge&logo=jupyter&logoColor=00f2ff" width="100%" />
+        <br /><b>🧪 Data Science</b>
       </a>
     </td>
   </tr>
