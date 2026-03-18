@@ -1,7 +1,7 @@
 ### 👋 Shalom! I'm Ariel Shlomoh (אריאל שלמה)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Data%20Driven%20%26%20Open%20Source%20World&fontSize=32&fontAlignY=38&desc=Complexity%20to%20Clarity%20via%20Data%20Engineering&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Data%20Driven%20World&fontSize=40&fontAlignY=38&desc=Democratizing%20Knowledge%20Through%20Data%20Engineering&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
