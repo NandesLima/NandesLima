@@ -28,9 +28,6 @@
 *   [**Análise Descritiva de Custos Hospitalares (R & SQL)**](https://github.com/NandesLima/analise-de-dados-com-r-e-sql)  
     *Estudo de caso (Healthcare): Utilização de R (ggplot2, dplyr) e manipulação via SQL para responder a 20 perguntas estratégicas sobre custos, demografia e tempo de permanência de pacientes em Wisconsin (EUA).*
 
-*   [**Escritório Sekhel: Torre de Controle (Segurança & Infra)**](https://github.com/NandesLima/security-dashboard)
-    *Monitoramento em tempo real de infraestrutura VPS, auditoria de comandos IA, geolocalização de ataques e saúde do hardware.*
-
 ---
 
 ### 🎓 Curadoria & Educação Livre (Open Source)
