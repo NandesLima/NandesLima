@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/NandesLima">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;Data+Science+Enthusiast;Security+%26+Infra+Guardian;Physical+Education+OSS+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7000FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Data+Engineer;Data+Science+Enthusiast;Security+%26+Infra+Guardian;Open+Source+Education+Advocate" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 - 🎓 **Bacharel em Business Intelligence (BI)** formado pela UNIFOR.
 - 💼 Atualmente atuando como **Gestor de Dados no Grupo Velas**, liderando estratégias de dados, engenharia de requisitos e modelagem de negócios.
 - 🧠 Apaixonado por transformar dados brutos em conhecimento acionável e decisões estratégicas.
-- ⚓ **Foco:** Engenharia de Dados, Analytics, Ciência de Dados, Segurança e Educação Física Open Source.
+- ⚓ **Foco:** Engenharia de Dados, Analytics, Ciência de Dados, Segurança e Educação Open Source.
 
 ---
 
@@ -39,28 +39,22 @@ Acredito que o conhecimento deve ser democrático. Mantenho curadorias de excel�
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://nandeslima.github.io/ciencia-da-computacao/">
         <img src="https://img.shields.io/badge/Computer_Science-050505?style=for-the-badge&logo=codeforces&logoColor=00f2ff" width="100%" />
         <br /><b>💻 CS</b>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://nandeslima.github.io/estatistica/">
         <img src="https://img.shields.io/badge/Statistics-050505?style=for-the-badge&logo=scipy&logoColor=00f2ff" width="100%" />
         <br /><b>📊 Estatística</b>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://nandeslima.github.io/matematica/">
         <img src="https://img.shields.io/badge/Mathematics-050505?style=for-the-badge&logo=wolframmathematica&logoColor=00f2ff" width="100%" />
         <br /><b>🧮 Matemática</b>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="#">
-        <img src="https://img.shields.io/badge/Phys_Ed-050505?style=for-the-badge&logo=fitnesspal&logoColor=00f2ff" width="100%" />
-        <br /><b>💪 Ed. Física</b>
       </a>
     </td>
   </tr>
