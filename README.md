@@ -67,10 +67,10 @@ Acredito que o conhecimento deve ser democrático. Mantenho curadorias de excel�
 
 ---
 
-### 📊 GitHub Ecosystem Insights
+### 📊 GitHub Insights (Last 365 Days)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandesLima&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&bg_color=050505&count_private=true&include_all_commits=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NandesLima&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff&bg_color=050505&count_private=true&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandesLima&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff&bg_color=050505&hide_title=true" width="48%" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandesLima&theme=tokyonight&hide_border=true&background=050505&width=1000&hide_border=true" width="100%" />
